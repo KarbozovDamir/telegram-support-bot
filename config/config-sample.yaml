@@ -25,7 +25,7 @@ language:
    startCommandText: "Добро пожаловать в наш чат поддержки! Задайте свой вопрос здесь"
    faqCommandText: "Get this bot at: <a href='https://github.com/bostrot/telegram-support-bot'>github.com</a>"
    helpCommandText: "<b>Доступные команды:</b>\n/help\n/faq\n/id"
-   contactMessage: "Спасибо, что связались с нами. Мы ответим как можно скоре\n"
+   contactMessage: "Спасибо, что связались с нами. Мы ответим как можно скорее\n"
    blockedSpam: "Вы послали довольно много вопросов в последнее время. Пожалуйста, успокойтесь и подождите, пока персонал их проверит."
    ticket: "Запрос"
    closed: "Закрыто"
