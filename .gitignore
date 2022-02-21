@@ -5,6 +5,8 @@ support.db
 build/
 *.rsls
 
+config/config.yaml
+
 # Logs
 logs
 *.log
